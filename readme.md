@@ -25,7 +25,7 @@ In this assignment, you will build a simple Java application that connects to a 
 5. Write a Java class `WeatherApp` that does the following:
     - Prompts the user for a city name
     - Parses the JSON response to extract the temperature and humidity
-    - Prints the temperature and humidity to the console
+    - Prints the temperature and humidity to the console.......
 
 6. Write a detailed report explaining the steps you took while working on this assignment
 7. Commit your changes and push them to your own fork on Github
